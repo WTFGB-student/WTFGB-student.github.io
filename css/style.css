@@ -39,7 +39,7 @@ em { color: #000; font-weight: 400 }
 
 h1, h2, h3, h4, h5, h6 { color: #000; font-weight: normal;  }
 h1 { font-size: 34px; margin: 0 0 20px; padding: 5px 0 }
-h2 { font-size: 28px; margin: 0 0 20px; padding: 5px 0 10px 0; color: #fff }
+h2 { font-size: 28px; margin: 0 0 20px; padding: 5px 0 10px 0; color: #000 }
 h3 { font-size: 20px; margin: 0 0 15px; padding: 0; }
 h4 { font-size: 18px; margin: 0 0 15px; padding: 0; }
 h5 { font-size: 16px; margin: 0 0 10px; padding: 0;  }
@@ -87,7 +87,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 	width: 195px; 
 	height: 46px; 
 	background: url(../images/tooplate_logo.png)  no-repeat top left; 
-	color: #fff; 
+	color: #000; 
 	font-size: 40px; 
 	font-weight: 400; 
 	outline: none; 
@@ -272,7 +272,7 @@ a.gototop:hover {
 	padding: 5px; 
 	color: #666; 
 	border: 1px solid #ff0;  
-	background: #fff; 
+	background: #000; 
 	font-family: Tahoma, Geneva, sans-serif; 
 	font-size: 12px; 
 }
@@ -290,14 +290,14 @@ a.gototop:hover {
 	padding: 5px; 
 	color: #666; 
 	border: 1px solid #ff0;  
-	background: #fff; 
+	background: #000; 
 	font-family: Tahoma, Geneva, sans-serif; 
 	font-size: 12px; 
 }
 
 #contact_form form .submit_btn { 
 	background: #559402; 
-	color: #fff; 
+	color: #000; 
 	cursor:pointer; 
 	border: 1px solid #3d6b00; 
 	padding: 2px 5px; 
